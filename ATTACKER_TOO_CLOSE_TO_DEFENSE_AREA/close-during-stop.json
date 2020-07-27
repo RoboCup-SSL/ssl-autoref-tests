@@ -1,0 +1,10 @@
+{
+    "expectedEvent": {
+        "attackerTooCloseToDefenseArea": {
+            "byTeam": "BLUE",
+            "byBot": 4,
+        },
+        "type": "ATTACKER_TOO_CLOSE_TO_DEFENSE_AREA"
+    },
+    "stopAfterEvent": false
+}
