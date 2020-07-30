@@ -1,0 +1,10 @@
+{
+    "expectedEvent": {
+        "botKickedBallTooFast": {
+            "byTeam": "BLUE",
+            "byBot": 6,
+        },
+        "type": "BOT_KICKED_BALL_TOO_FAST"
+    },
+    "stopAfterEvent": false
+}
