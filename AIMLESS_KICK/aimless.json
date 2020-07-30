@@ -1,0 +1,10 @@
+{
+    "expectedEvent": {
+        "aimlessKick": {
+            "byTeam": "BLUE",
+            "byBot": 4
+        },
+        "type": "AIMLESS_KICK"
+    },
+    "stopAfterEvent": false
+}
