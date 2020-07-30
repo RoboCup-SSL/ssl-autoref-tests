@@ -1,0 +1,10 @@
+{
+    "expectedEvent": {
+        "defenderTooCloseToKickPoint": {
+            "byTeam": "BLUE",
+            "byBot": 4
+        },
+        "type": "DEFENDER_TOO_CLOSE_TO_KICK_POINT"
+    },
+    "stopAfterEvent": false
+}
