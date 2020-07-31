@@ -1,0 +1,11 @@
+{
+    "expectedEvent": {
+        "botCrashUnique": {
+            "byTeam": "BLUE",
+            "violator": 7,
+            "victim": 11
+        },
+        "type": "BOT_CRASH_UNIQUE"
+    },
+    "stopAfterEvent": false
+}

@@ -1,0 +1,10 @@
+{
+    "expectedEvent": {
+        "botInterferedPlacement": {
+            "byTeam": "YELLOW",
+            "byBot": 15
+        },
+        "type": "BOT_INTERFERED_PLACEMENT"
+    },
+    "stopAfterEvent": false
+}
