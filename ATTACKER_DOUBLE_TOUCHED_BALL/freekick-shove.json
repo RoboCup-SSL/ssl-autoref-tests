@@ -1,0 +1,10 @@
+{
+    "expectedEvent": {
+        "attackerDoubleTouchedBall": {
+            "byTeam": "BLUE",
+            "byBot": 6
+        },
+        "type": "ATTACKER_DOUBLE_TOUCHED_BALL"
+    },
+    "stopAfterEvent": false
+}
