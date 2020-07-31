@@ -1,0 +1,21 @@
+{
+    "expectedEvent": {
+        "possibleGoal": {
+            "byTeam": "BLUE",
+            "kickingTeam": "BLUE",
+            "kickingBot": 7,
+            "location": {
+                "x": -6,
+                "y": 0.2
+            },
+            "kickLocation": {
+                "x": -1.6,
+                "y": 3.4
+            },
+            "maxBallHeight": 0,
+            "numRobotsByTeam": 8
+        },
+        "type": "POSSIBLE_GOAL"
+    },
+    "stopAfterEvent": false
+}
