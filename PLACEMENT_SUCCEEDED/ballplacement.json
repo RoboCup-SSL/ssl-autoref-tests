@@ -1,0 +1,9 @@
+{
+    "expectedEvent": {
+        "placementSucceeded": {
+            "byTeam": "YELLOW"
+        },
+        "type": "PLACEMENT_SUCCEEDED"
+    },
+    "stopAfterEvent": false
+}
