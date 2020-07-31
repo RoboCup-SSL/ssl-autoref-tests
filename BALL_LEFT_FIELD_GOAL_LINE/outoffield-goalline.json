@@ -2,7 +2,7 @@
     "expectedEvent": {
         "ballLeftFieldGoalLine": {
             "byTeam": "BLUE",
-            "byBot": 3
+            "byBot": 7
         },
         "type": "BALL_LEFT_FIELD_GOAL_LINE"
     },
