@@ -1,10 +1,10 @@
 {
     "expectedEvent": {
         "botCrashUnique": {
-            "botYellow": 9,
-            "botBlue": 1
+            "botYellow": 3,
+            "botBlue": 0
         },
         "type": "BOT_CRASH_DRAWN"
     },
-    "stopAfterEvent": false
+    "stopAfterEvent": true
 }
