@@ -1,0 +1,3 @@
+Currently missing events:
+* BOUNDARY_CROSSING
+* PENALTY_KICK_FAILED
