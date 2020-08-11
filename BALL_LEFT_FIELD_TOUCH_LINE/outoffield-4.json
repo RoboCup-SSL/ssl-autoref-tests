@@ -1,0 +1,10 @@
+{
+    "expectedEvent": {
+        "ballLeftFieldTouchLine": {
+            "byTeam": "BLUE",
+            "byBot": 4
+        },
+        "type": "BALL_LEFT_FIELD_TOUCH_LINE"
+    },
+    "stopAfterEvent": false
+}
