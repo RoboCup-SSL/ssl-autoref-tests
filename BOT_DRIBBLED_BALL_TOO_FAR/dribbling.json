@@ -2,7 +2,7 @@
     "expectedEvent": {
         "botDribbledBallTooFar": {
             "byTeam": "BLUE",
-            "byBot": 2,
+            "byBot": 2
         },
         "type": "BOT_DRIBBLED_BALL_TOO_FAR"
     },

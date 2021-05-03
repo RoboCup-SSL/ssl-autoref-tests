@@ -2,7 +2,7 @@
     "expectedEvent": {
         "defenderInDefenseArea": {
             "byTeam": "BLUE",
-            "byBot": 7,
+            "byBot": 7
         },
         "type": "DEFENDER_IN_DEFENSE_AREA"
     },
