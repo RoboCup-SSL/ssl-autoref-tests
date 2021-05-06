@@ -4,8 +4,8 @@
             "byTeam": "BLUE",
             "byBot": 6,
             "location": {
-                "x": 0,
-                "y": 0
+                "x": -2.3,
+                "y": 4
             }
         },
         "type": "ATTACKER_DOUBLE_TOUCHED_BALL"

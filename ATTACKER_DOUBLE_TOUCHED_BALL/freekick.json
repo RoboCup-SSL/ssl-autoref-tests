@@ -2,7 +2,11 @@
     "expectedEvent": {
         "attackerDoubleTouchedBall": {
             "byTeam": "BLUE",
-            "byBot": 6
+            "byBot": 6,
+            "location": {
+                "x": -4.3,
+                "y": 4.1
+            }
         },
         "type": "ATTACKER_DOUBLE_TOUCHED_BALL"
     },

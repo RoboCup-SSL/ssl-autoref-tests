@@ -2,7 +2,11 @@
     "expectedEvent": {
         "botInterferedPlacement": {
             "byTeam": "YELLOW",
-            "byBot": 15
+            "byBot": 15,
+            "location": {
+                "x": 2.5,
+                "y": 0.8
+            }
         },
         "type": "BOT_INTERFERED_PLACEMENT"
     },

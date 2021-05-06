@@ -3,7 +3,14 @@
         "botCrashUnique": {
             "byTeam": "BLUE",
             "violator": 7,
-            "victim": 11
+            "victim": 11,
+            "location": {
+                "x": -3.5,
+                "y": -2.1
+            },
+            "crash_speed": 3.8,
+            "speed_diff": 4.3,
+            "crash_angle": 1.6
         },
         "type": "BOT_CRASH_UNIQUE"
     },

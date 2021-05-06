@@ -2,7 +2,11 @@
     "expectedEvent": {
         "ballLeftFieldTouchLine": {
             "byTeam": "BLUE",
-            "byBot": 3
+            "byBot": 3,
+            "location": {
+                "x": 3.6,
+                "y": 4.5
+            }
         },
         "type": "BALL_LEFT_FIELD_TOUCH_LINE"
     },

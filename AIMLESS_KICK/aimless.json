@@ -2,7 +2,15 @@
     "expectedEvent": {
         "aimlessKick": {
             "byTeam": "BLUE",
-            "byBot": 4
+            "byBot": 4,
+            "location": {
+                "x": -6,
+                "y": 3
+            },
+            "kickLocation": {
+                "x": 0.8,
+                "y": 3
+            }
         },
         "type": "AIMLESS_KICK"
     },

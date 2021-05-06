@@ -2,7 +2,14 @@
     "expectedEvent": {
         "botCrashDrawn": {
             "botYellow": 3,
-            "botBlue": 0
+            "botBlue": 0,
+            "location": {
+                "x": -2,
+                "y": -1
+            },
+            "crash_speed": 2.2,
+            "speed_diff": -0.1,
+            "crash_angle": 2
         },
         "type": "BOT_CRASH_DRAWN"
     },

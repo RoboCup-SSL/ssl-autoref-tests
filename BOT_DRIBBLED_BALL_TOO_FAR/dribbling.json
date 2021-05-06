@@ -2,7 +2,15 @@
     "expectedEvent": {
         "botDribbledBallTooFar": {
             "byTeam": "BLUE",
-            "byBot": 2
+            "byBot": 2,
+            "start": {
+                "x": -2,
+                "y": -2.7
+            },
+            "end": {
+                "x": -2.2,
+                "y": -1.8
+            }
         },
         "type": "BOT_DRIBBLED_BALL_TOO_FAR"
     },

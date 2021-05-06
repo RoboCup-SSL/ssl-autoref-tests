@@ -2,7 +2,11 @@
     "expectedEvent": {
         "attackerTouchedBallInDefenseArea": {
             "byTeam": "YELLOW",
-            "byBot": 14
+            "byBot": 14,
+            "location": {
+                "x": 4.8,
+                "y": -0.6
+            }
         },
         "type": "ATTACKER_TOUCHED_BALL_IN_DEFENSE_AREA"
     },
