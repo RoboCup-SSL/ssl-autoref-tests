@@ -2,7 +2,11 @@
     "expectedEvent": {
         "botTooFastInStop": {
             "byTeam": "BLUE",
-            "byBot": 1
+            "byBot": 1,
+            "location": {
+                "x": 0.1,
+                "y": -0.5
+            }
         },
         "type": "BOT_TOO_FAST_IN_STOP"
     },
