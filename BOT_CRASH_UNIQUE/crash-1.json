@@ -5,8 +5,8 @@
             "violator": 3,
             "victim": 1,
             "location": {
-                "x": 1.6,
-                "y": -3.1
+                "x": -1.6,
+                "y": 3.1
             },
             "crash_speed": 1.6,
             "speed_diff": -0.5,

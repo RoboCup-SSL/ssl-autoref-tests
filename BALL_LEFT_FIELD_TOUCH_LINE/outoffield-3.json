@@ -4,8 +4,8 @@
             "byTeam": "BLUE",
             "byBot": 5,
             "location": {
-                "x": 3.5,
-                "y": 4.5
+                "x": -3.5,
+                "y": -4.5
             }
         },
         "type": "BALL_LEFT_FIELD_TOUCH_LINE"
