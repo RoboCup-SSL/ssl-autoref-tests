@@ -1,0 +1,10 @@
+{
+    "expectedEvent": {
+        "botTooFastInStop": {
+            "byTeam": "YELLOW",
+            "byBot": 11
+        },
+        "type": "BOT_TOO_FAST_IN_STOP"
+    },
+    "stopAfterEvent": false
+}
